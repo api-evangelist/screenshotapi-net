@@ -1,0 +1,32 @@
+aid: screenshotapi-net
+name: ScreenshotAPI.net
+description: "Create pixel-perfect website screenshots"
+url: https://screenshotapi.net/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: ScreenshotAPI.net
+    description: "Create pixel-perfect website screenshots"
+    humanURL: https://screenshotapi.net/
+    baseURL: https://screenshotapi.net/
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://screenshotapi.net/
+common:
+  - type: Website
+    url: https://screenshotapi.net/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
