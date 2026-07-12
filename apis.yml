@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://screenshotapi.net/
 common:
+  - type: DomainSecurity
+    url: security/screenshotapi-net-domain-security.yml
   - type: Website
     url: https://screenshotapi.net/
   - type: PublicAPIsListing
