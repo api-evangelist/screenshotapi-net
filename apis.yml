@@ -39,7 +39,6 @@ apis:
   - name: ScreenshotAPI.net
     description: "Create pixel-perfect website screenshots"
     humanURL: https://screenshotapi.net/
-    baseURL: https://screenshotapi.net/
     tags:
       - Development
     properties:
