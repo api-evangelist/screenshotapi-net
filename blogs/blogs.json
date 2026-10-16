@@ -1,0 +1,14 @@
+{
+  "repo": "screenshotapi-net",
+  "feeds": [
+    {
+      "source": "https://www.screenshotapi.net/blog",
+      "feed_url": "https://www.screenshotapi.net/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
